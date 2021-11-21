@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/meow-facts/static/css/main.97631ab7.chunk.css",
-    "main.js": "/meow-facts/static/js/main.c829c018.chunk.js",
-    "main.js.map": "/meow-facts/static/js/main.c829c018.chunk.js.map",
+    "main.css": "/meow-facts/static/css/main.c9324fe8.chunk.css",
+    "main.js": "/meow-facts/static/js/main.c1cc7acb.chunk.js",
+    "main.js.map": "/meow-facts/static/js/main.c1cc7acb.chunk.js.map",
     "runtime-main.js": "/meow-facts/static/js/runtime-main.23c726b4.js",
     "runtime-main.js.map": "/meow-facts/static/js/runtime-main.23c726b4.js.map",
     "static/js/2.41eb250a.chunk.js": "/meow-facts/static/js/2.41eb250a.chunk.js",
     "static/js/2.41eb250a.chunk.js.map": "/meow-facts/static/js/2.41eb250a.chunk.js.map",
     "index.html": "/meow-facts/index.html",
-    "static/css/main.97631ab7.chunk.css.map": "/meow-facts/static/css/main.97631ab7.chunk.css.map",
+    "static/css/main.c9324fe8.chunk.css.map": "/meow-facts/static/css/main.c9324fe8.chunk.css.map",
     "static/js/2.41eb250a.chunk.js.LICENSE.txt": "/meow-facts/static/js/2.41eb250a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.23c726b4.js",
     "static/js/2.41eb250a.chunk.js",
-    "static/css/main.97631ab7.chunk.css",
-    "static/js/main.c829c018.chunk.js"
+    "static/css/main.c9324fe8.chunk.css",
+    "static/js/main.c1cc7acb.chunk.js"
   ]
 }
